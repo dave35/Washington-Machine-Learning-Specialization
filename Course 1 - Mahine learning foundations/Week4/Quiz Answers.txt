@@ -1,0 +1,16 @@
+the	40
+in	30
+and	21
+-------------
+furnish		18.38947184
+elton		17.48232027
+billboard	17.3036809575
+--------------------------------------------------
+0.9567006376655429 -- victoria - elton
+0.8250310029221779 -- elton - pauel
+Paul McCartney is closer - yes is sensible
+---------------------------------------------------
+Cliff Richard -- 0.16142415259
+Rod Stewart  -- 0.717219667893
+Mary Fitzgerald -- 0.207307036115
+David Beckham	-- 0.548169610263
